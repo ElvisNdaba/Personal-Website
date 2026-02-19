@@ -1,0 +1,17 @@
+#Elvis{
+    height: 350px;
+    border-radius: 20%;
+}
+h1{
+    font-family:cursive; 
+}
+p{
+    font-family:sans-serif,
+}
+.title-background{
+    background-color: antiquewhite;
+    
+}
+h2{
+    font-family:serif; 
+}
